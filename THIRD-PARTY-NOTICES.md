@@ -13,3 +13,7 @@ The release zip bundles an **unmodified** BepInEx build so that you do not have 
 "Castlevania: Belmont's Curse" is a product of Konami and its developers. This project is not affiliated with
 or endorsed by them. No game code or assets are included here: the plugin is compiled against interop assemblies
 that BepInEx generates on your own machine from your own copy of the game, and those are never redistributed.
+
+## Button icons (README graphic)
+The controller button icons in `docs/controls.png` come from **Kenney Input Prompts** by Kenney (<https://www.kenney.nl>),
+released under **CC0 1.0** (public domain): <https://kenney.nl/assets/input-prompts>. They are used only in the README image and are not part of the mod.

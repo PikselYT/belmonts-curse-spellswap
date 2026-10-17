@@ -92,6 +92,6 @@ dotnet build src\SpellSwap -c Release -p:GameDir="D:\Games\Castlevania Belmont's
 
 ## Credits and disclaimer
 
-Built on [BepInEx](https://github.com/BepInEx/BepInEx). MIT licensed (see [LICENSE](LICENSE), third-party details in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)).
+Built on [BepInEx](https://github.com/BepInEx/BepInEx). Button icons in the picture above: [Kenney Input Prompts](https://kenney.nl/assets/input-prompts) (CC0). MIT licensed (see [LICENSE](LICENSE), third-party details in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)).
 This is an unofficial fan project, not affiliated with Konami or the game's developers. It contains no game code or assets.
 Check the game's terms before sharing mods; use at your own risk, and keep a copy of your save.
